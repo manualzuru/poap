@@ -2,7 +2,7 @@
 
 ## Directory Sructure
 
-POAP is dividided in the following applications/projects:
+POAP is divided in the following applications/projects:
 
 - **eth**: ZeppelinOS project with POAP Contracts
 - **website**: Public website. Static website for poap
